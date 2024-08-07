@@ -1,0 +1,86 @@
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/bin/Debug/net6.0/appsettings.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/bin/Debug/net6.0/backend.exe
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/bin/Debug/net6.0/backend.deps.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/bin/Debug/net6.0/backend.runtimeconfig.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/bin/Debug/net6.0/backend.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/bin/Debug/net6.0/backend.pdb
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/backend.csproj.AssemblyReference.cache
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/backend.AssemblyInfoInputs.cache
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/backend.AssemblyInfo.cs
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/backend.csproj.CoreCompileInputs.cache
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/backend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/backend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/scopedcss/bundle/backend.styles.css
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/backend.csproj.CopyComplete
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/backend.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/refint/backend.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/backend.pdb
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/backend.genruntimeconfig.cache
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_8_create_page_sub_component_Angular_observable/tp/backend/obj/Debug/net6.0/ref/backend.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/bin/Debug/net6.0/appsettings.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/bin/Debug/net6.0/backend.exe
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/bin/Debug/net6.0/backend.deps.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/bin/Debug/net6.0/backend.runtimeconfig.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/bin/Debug/net6.0/backend.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/bin/Debug/net6.0/backend.pdb
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/backend.csproj.AssemblyReference.cache
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/backend.AssemblyInfoInputs.cache
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/backend.AssemblyInfo.cs
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/backend.csproj.CoreCompileInputs.cache
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/backend.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/backend.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/scopedcss/bundle/backend.styles.css
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/backend.csproj.CopyComplete
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/backend.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/refint/backend.dll
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/backend.pdb
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/backend.genruntimeconfig.cache
+C:/Users/KH6405/Documents/Courses/EPHEC/Projet-Web/Chapters/Chapter_9/tp/todo/backend/obj/Debug/net6.0/ref/backend.dll
+/Users/mb10/Downloads/projects (1)/backend/bin/Debug/net6.0/appsettings.Development.json
+/Users/mb10/Downloads/projects (1)/backend/bin/Debug/net6.0/appsettings.json
+/Users/mb10/Downloads/projects (1)/backend/bin/Debug/net6.0/backend
+/Users/mb10/Downloads/projects (1)/backend/bin/Debug/net6.0/backend.deps.json
+/Users/mb10/Downloads/projects (1)/backend/bin/Debug/net6.0/backend.runtimeconfig.json
+/Users/mb10/Downloads/projects (1)/backend/bin/Debug/net6.0/backend.dll
+/Users/mb10/Downloads/projects (1)/backend/bin/Debug/net6.0/backend.pdb
+/Users/mb10/Downloads/projects (1)/backend/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/mb10/Downloads/projects (1)/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mb10/Downloads/projects (1)/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mb10/Downloads/projects (1)/backend/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/backend.csproj.AssemblyReference.cache
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/backend.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/backend.AssemblyInfoInputs.cache
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/backend.AssemblyInfo.cs
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/backend.csproj.CoreCompileInputs.cache
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/backend.MvcApplicationPartsAssemblyInfo.cs
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/backend.MvcApplicationPartsAssemblyInfo.cache
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/staticwebassets/msbuild.backend.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/staticwebassets/msbuild.build.backend.props
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.backend.props
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.backend.props
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/staticwebassets.build.json
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/staticwebassets.development.json
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/scopedcss/bundle/backend.styles.css
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/backend.csproj.CopyComplete
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/backend.dll
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/refint/backend.dll
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/backend.pdb
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/backend.genruntimeconfig.cache
+/Users/mb10/Downloads/projects (1)/backend/obj/Debug/net6.0/ref/backend.dll
